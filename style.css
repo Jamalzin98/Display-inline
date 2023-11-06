@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    border: 2px solid blue;
+    display:inline;
+    margin-right:20px ;
+    margin-inline:10px;
+}
